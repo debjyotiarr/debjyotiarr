@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello visitor, welcome to my profile 👋
+
+I am a data enthusiast and an expert in particle physics. Looking to move from academia to industry, using my data science skills. 
+
+This profile will be much more interesting very soon! 
+
+While you're here, feel free to check out: 
+-  My Tableau Public account for some visualisations I did: <a href="https://public.tableau.com/app/profile/debjyoti3943/vizzes">Debjyoti Bardhan - Tableau Public</a>
+
+
+
 
 <!--
 **debjyotiarr/debjyotiarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
