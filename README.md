@@ -1,4 +1,4 @@
-### Hello visitor, welcome to my profile 👋
+# Hello visitor, welcome to my profile 👋
 
 I am a data enthusiast and an expert in particle physics. Looking to move from academia to industry, using my data science skills. 
 
